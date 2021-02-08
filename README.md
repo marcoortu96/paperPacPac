@@ -13,8 +13,8 @@ Specifically, we have designed a Debug interface in the editor for the creation 
 - Neo4j as a NoSQL database
 
 # Link paper
-....
+https://github.com/marcoortu96/paperPacPac/blob/main/paperPacpac.pdf
 
 # Link Project Presentation
-Below is the link to the presentation of my graduation project with attached videos that explain the functions of the various user interfaces:
-..
+Below there is the google drive link for download the presentation of my graduation project with attached videos that explain the functions of the various user interfaces:
+https://drive.google.com/file/d/1758TcRGdz8n_G-xGvVWMtwmT9nVC8TcX/view?usp=sharing
